@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\cropper\src\main\assets"/><source path="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\cropper\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\cropper\src\release\assets"/></dataSet></merger>

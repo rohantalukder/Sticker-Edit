@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mobio.app.customsticker">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL" android:protectionLevel="signature"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:hardwareAccelerated="false"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.mobio.app.customsticker.GalleryActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.mobio.app.customsticker.HomeActivity"
+            android:screenOrientation="portrait"></activity>
+
+        <activity android:name="com.mobio.app.customsticker.DoodleActivity"
+            android:screenOrientation="portrait"></activity>
+
+        <activity android:name="com.mobio.app.customsticker.EmojiActivity"
+            android:screenOrientation="portrait"></activity>
+
+        <!--<activity android:name="com.mobio.app.customsticker.GalleryActivity"
+            android:screenOrientation="portrait"></activity>-->
+
+        <activity android:name="com.mobio.app.customsticker.FullScreenActivity"
+            android:screenOrientation="portrait"></activity>
+
+    </application>
+
+</manifest>

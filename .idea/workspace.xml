@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40eaebec-276f-4d0d-80ca-bfd8eb582a72" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_jars___H__ProjectDevelopment_Project2020_sample_CustomStickerBD__2__app_libs_android_async_http_1_4_6_jar_unspecified_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_25_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_25_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_25_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_25_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_24_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_25_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_25_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_25_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_25_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_25_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_25_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_25_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_25_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_2_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_2_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_exposed_instrumentation_api_publish_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_rules_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_25_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ksoichiro_android_observablescrollview_1_6_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_koushikdutta_async_androidasync_2_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_koushikdutta_ion_ion_2_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_loopj_android_android_async_http_1_4_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_http_legacy_android_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/CustomStickerBD_(2).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_cropper_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_cropper_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_cropper_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_cropper_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_cropper_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_cropper_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_cropper_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_cropper_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomStickerBD (2).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/fonts/Eutemia.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/Eutemia.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/fonts/GREENPIL.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/GREENPIL.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/fonts/Libertango.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/Libertango.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/fonts/MetalMacabre.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/MetalMacabre.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/fonts/akaDora.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/akaDora.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/fonts/waltograph42.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/waltograph42.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/generated/source/r/release/com/theartofdev/edmodo/cropper/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/generated/source/r/release/com/theartofdev/edmodo/cropper/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-af.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-af.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-am.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-am.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ar.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-az-rAZ.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-az-rAZ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-b+sr+Latn.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-b+sr+Latn.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-be-rBY.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-be-rBY.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-bg.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-bg.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-bn-rBD.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-bn-rBD.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-bs-rBA.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-bs-rBA.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ca.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ca.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-cs.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-cs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-da.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-da.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-de.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-de.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-el.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-el.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-en-rAU.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-en-rAU.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-en-rGB.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-en-rGB.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-en-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-en-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-es-rUS.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-es-rUS.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-es.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-es.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-et-rEE.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-et-rEE.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-eu-rES.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-eu-rES.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-fa.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-fa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-fi.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-fi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-fr-rCA.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-fr-rCA.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-fr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-gl-rES.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-gl-rES.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-gu-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-gu-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-h720dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-h720dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-hdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-hdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-hi.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-hi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-hr.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-hr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-hu.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-hu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-hy-rAM.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-hy-rAM.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-in.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-in.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-is-rIS.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-is-rIS.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-it.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-it.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-iw.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-iw.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ja.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ja.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ka-rGE.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ka-rGE.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-kk-rKZ.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-kk-rKZ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-km-rKH.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-km-rKH.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-kn-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-kn-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ko.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ko.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ky-rKG.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ky-rKG.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-land.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-land.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-large-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-large-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ldltr-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ldltr-v21.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-lo-rLA.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-lo-rLA.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-lt.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-lt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-lv.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-lv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-mk-rMK.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-mk-rMK.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ml-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ml-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-mn-rMN.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-mn-rMN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-mr-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-mr-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ms-rMY.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ms-rMY.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-my-rMM.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-my-rMM.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-nb.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-nb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ne-rNP.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ne-rNP.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-night-v8.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-night-v8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-nl.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-nl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-pa-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-pa-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-pl.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-pl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-port.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-port.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-pt-rBR.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-pt-rBR.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-pt-rPT.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-pt-rPT.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-pt.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-pt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ro.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ro.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-si-rLK.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-si-rLK.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sk.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sl.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sq-rAL.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sq-rAL.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sr.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sv.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sw.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sw.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sw600dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-sw600dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ta-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ta-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-te-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-te-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-th.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-th.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-tl.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-tl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-tr.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-tr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-uk.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-uk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ur-rPK.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-ur-rPK.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-uz-rUZ.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-uz-rUZ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v11.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v12.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v12.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v14.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v14.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v18.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v18.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v21.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v22.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v22.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-v23.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-vi.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-vi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-xlarge-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-xlarge-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-zh-rCN.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-zh-rCN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-zh-rHK.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-zh-rHK.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-zh-rTW.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-zh-rTW.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-zu.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values-zu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/multi/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/anim.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/anim.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/color-v11.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/color-v11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/color-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/color-v23.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/color.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/color.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-hdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-hdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-ldrtl-hdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-ldrtl-hdpi-v17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-ldrtl-mdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-ldrtl-mdpi-v17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-ldrtl-xhdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-ldrtl-xhdpi-v17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-ldrtl-xxhdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-ldrtl-xxhdpi-v17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-ldrtl-xxxhdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-ldrtl-xxxhdpi-v17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-mdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-mdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-v21.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-v23.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-xxhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-xxhdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-xxxhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable-xxxhdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/drawable.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/layout.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/layout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/menu.json" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/blame/res/release/single/menu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/bundles/release/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/bundles/release/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/bundles/release/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/bundles/release/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/bundles/release/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/bundles/release/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/classes/release/com/theartofdev/edmodo/cropper/BitmapUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/classes/release/com/theartofdev/edmodo/cropper/BitmapUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/classes/release/com/theartofdev/edmodo/cropper/CropImageView.class" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/classes/release/com/theartofdev/edmodo/cropper/CropImageView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/incremental/mergeReleaseAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/incremental/mergeReleaseResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/incremental/mergeReleaseShaders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/incremental/packageReleaseResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/intermediates/manifests/aapt/release/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/intermediates/manifests/aapt/release/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/build/outputs/aar/cropper-release.aar" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/build/outputs/aar/cropper-release.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropper/cropper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cropper/cropper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_4_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CustomStickerBD (2)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ASClass" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/Desktop/bijoyparbone" />
+    <option name="KEY_ALIAS" value="mobioapp" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fWv9pMYE4e3XuYlxQyty2f4N1M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExportApk.ApkPath" value="$USER_HOME$/Desktop" />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="device.picker.selection" value="ad163ce0" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40eaebec-276f-4d0d-80ca-bfd8eb582a72" name="Default" comment="" />
+      <created>1483847815977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1483847815977</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1846" height="204" key="GridCell.Tab.0.bottom" timestamp="1596382337083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1846" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596382337083" />
+    <state width="1846" height="204" key="GridCell.Tab.0.center" timestamp="1596382337083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1846" height="204" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596382337083" />
+    <state width="1846" height="204" key="GridCell.Tab.0.left" timestamp="1596382337083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1846" height="204" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596382337083" />
+    <state width="1846" height="204" key="GridCell.Tab.0.right" timestamp="1596382337083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1846" height="204" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596382337083" />
+    <state x="92" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1596348107983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596348107983" />
+  </component>
+</project>

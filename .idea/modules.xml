@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomStickerBD_(2).iml" filepath="$PROJECT_DIR$/.idea/modules/CustomStickerBD_(2).iml" group="CustomStickerBD_(2)" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="CustomStickerBD (2)/app" />
+      <module fileurl="file://$PROJECT_DIR$/cropper/cropper.iml" filepath="$PROJECT_DIR$/cropper/cropper.iml" group="CustomStickerBD (2)/cropper" />
+    </modules>
+  </component>
+</project>

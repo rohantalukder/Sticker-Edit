@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_d91d20315118ffa9fc23e586bfc6db836b5a4f72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_06451a68ec5fb25fba9ea4b610e3077af731e3be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_2ef5a0311a4e711d4633b1b94e3aaaa09c0ead5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohan\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.6\a845a88238be0b5be9d238652c1bc0605ef91f52\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6_814aca28b92e16bdf276bcc894dc48e1360a92dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_50ecbe1bbcf3658f17d646f72695ca9f3adb8341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d125b199a427e5cc8d4234f7d8673c9a27ef6336">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.github.ksoichiro-android-observablescrollview-1.6.0_f533721459d1afd838d6dbc1acc171e116aa3c3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohan\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\gson-2.3_ebcd86bcdae414c10851c702e704dddb02e32bbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_f159888517c7107a741a31fe983e8a1d63eb466f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\CustomStickerBD (2)\cropper\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd02d9fef374048cbd4614ed4ed545211d952d5a">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\CustomStickerBD (2)-cropper-unspecified_04c549971da0a3eb53c2acbe40fa3c4168cdfb49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_b2980f1b62d1aa6b99109ca4af057b6602c696d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_aa576e0ea7185243b4ec530d906544af3c81a3f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_8a403ee4c83248554f8dfa26ccb86e4709a86bbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_318f883959491d4c1d962fa51ff62f446e0d0b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_1cb703989e521690e1f983226a3a4fc18bd34de4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_b1935f72b8a5f73cf2e73746bf44172f2c30da68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0772eec11be9e3803736882ae4bec4078986910e">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.koushikdutta.async-androidasync-2.2.1_82484aa1fc63e4bf2ae5f6f96b37ddb97ae2e767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_0a5d3d78b06eca4b8699a5ffbe4766ae31f4d012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\AndroidSDKK\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_bee7a95e04282386aba24720666e52571010534f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\exploded-aar\com.koushikdutta.ion\ion\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05e8375b2ec26e4508b2a745d5a0623ba95f9b49">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\com.koushikdutta.ion-ion-2.2.1_c3e6b4e47e5e6e439a361801b46bd1af41bf53ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohan\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_f62b3502f3dd00d18c0ba13364808a5114a80581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohan\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="H:\ProjectDevelopment\Project2020\sample\CustomStickerBD (2)\app\build\intermediates\pre-dexed\debug\commons-io-2.4_b665b94c231d9f623fc32614421c3430224f872e.jar" />
+    </item>
+
+</items>

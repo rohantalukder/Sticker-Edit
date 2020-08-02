@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomSticker</string>
+    <string name="double_click_input_text">Double Click to write</string>
+    <string name="loading">লোড হচ্ছে...</string>
+    <string name="internet_error">ইন্টারনেট এর সাথে সংযোগ স্থাপিত হয়নি</string>
+    <string name="no_internet">ইন্টারনেট কানেকশন নেই!</string>
+    <string name="error">কাজটি সম্পাদন হয়নি!</string>
+    <string name="no_custom_sticker">You have no Sticker</string>
+</resources>
